@@ -4,7 +4,7 @@ use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
-define('base_url', 'http://localhost/Blog/Back/');
+define('base_url', 'http://localhost/Blog/b/');
 
 /*
 |--------------------------------------------------------------------------
